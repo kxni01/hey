@@ -1,0 +1,122 @@
+[
+    {
+        "BMC_IP": "1",
+        "username": "a",
+        "password": "1231",
+        "PDU_ip": "111",
+        "PDU_usernmae": "abc",
+        "PDU_Password": "5001"
+    },
+    {
+        "BMC_IP": "2",
+        "username": "b",
+        "password": "1232",
+        "PDU_ip": "112",
+        "PDU_usernmae": "fsg",
+        "PDU_Password": "5002"
+    },
+    {
+        "BMC_IP": "3",
+        "username": "c",
+        "password": "1233",
+        "PDU_ip": "113",
+        "PDU_usernmae": "djk",
+        "PDU_Password": "5003"
+    },
+    {
+        "BMC_IP": "4",
+        "username": "d",
+        "password": "1234",
+        "PDU_ip": "114",
+        "PDU_usernmae": "kjk",
+        "PDU_Password": "5004"
+    },
+    {
+        "BMC_IP": "5",
+        "username": "e",
+        "password": "1235",
+        "PDU_ip": "115",
+        "PDU_usernmae": "dfd",
+        "PDU_Password": "5005"
+    },
+    {
+        "BMC_IP": "6",
+        "username": "f",
+        "password": "1236",
+        "PDU_ip": "116",
+        "PDU_usernmae": "jkl",
+        "PDU_Password": "5006"
+    },
+    {
+        "BMC_IP": "7",
+        "username": "g",
+        "password": "1237",
+        "PDU_ip": "117",
+        "PDU_usernmae": "rys",
+        "PDU_Password": "5007"
+    },
+    {
+        "BMC_IP": "8",
+        "username": "h",
+        "password": "1238",
+        "PDU_ip": "118",
+        "PDU_usernmae": "jkk",
+        "PDU_Password": "5008"
+    },
+    {
+        "BMC_IP": "9",
+        "username": "i",
+        "password": "1239",
+        "PDU_ip": "119",
+        "PDU_usernmae": "kii",
+        "PDU_Password": "5009"
+    },
+    {
+        "BMC_IP": "10",
+        "username": "j",
+        "password": "1240",
+        "PDU_ip": "120",
+        "PDU_usernmae": "dfg",
+        "PDU_Password": "5010"
+    },
+    {
+        "BMC_IP": "11",
+        "username": "k",
+        "password": "1241",
+        "PDU_ip": "121",
+        "PDU_usernmae": "wer",
+        "PDU_Password": "5011"
+    },
+    {
+        "BMC_IP": "12",
+        "username": "l",
+        "password": "1243",
+        "PDU_ip": "122",
+        "PDU_usernmae": "gjl",
+        "PDU_Password": "5012"
+    },
+    {
+        "BMC_IP": "13",
+        "username": "m",
+        "password": "1244",
+        "PDU_ip": "123",
+        "PDU_usernmae": "kkl",
+        "PDU_Password": "5013"
+    },
+    {
+        "BMC_IP": "14",
+        "username": "n",
+        "password": "1245",
+        "PDU_ip": "124",
+        "PDU_usernmae": "tyy",
+        "PDU_Password": "5014"
+    },
+    {
+        "BMC_IP": "15",
+        "username": "o",
+        "password": "1246",
+        "PDU_ip": "125",
+        "PDU_usernmae": "ret",
+        "PDU_Password": "5015"
+    }
+]
